@@ -1,4 +1,4 @@
-# first-cybersecurity-project
+# My First Cybersecurity Project
 ## 👋 Introduction
 Hello, my name is Tanner. I recently completed the Google Cybersecurity Certificate and am building hands-on projects to develop my skills
 ## Objective
