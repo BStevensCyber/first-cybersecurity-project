@@ -1,11 +1,23 @@
-# My First Cybersecurity Project
-## 👋 Introduction
-Hello, my name is Tanner. I recently completed the Google Cybersecurity Certificate and am building hands-on projects to develop my skills
+# Network Traffic Analysis Lab
+
 ## Objective
-The purpose of this project is to begin documenting my cybersecurity learining journey using Github.
-## What I'm Learning
--How to use Github
--How to document projects
--Basic cybersecurity concepts
-## My Next Steps
-I will be working on network traffic analysis using wireshark as my next project.
+The goal of this project was to capture and analyze network traffic using Wireshark to understand how devices communicate over a network.
+
+## Tools Used
+- Wireshark
+
+## What I Did
+- Captured live network traffic on my machine
+- Filtered DNS traffic to identify domain name requests
+- Filtered HTTPS traffic using port 443
+- Reviewed packet details to understand communication between devices
+
+## Findings
+- DNS request for accounts.google.com resolved to 142.251.163.84
+- Observed HTTPS traffic over port 443, indicating secure communication
+- Identified IP address 17.57.144.245 belonging to Apple
+
+## What I Learned
+- DNS translates domain names into IP addresses
+- Port 443 is used for secure (HTTPS) communication
+- Network traffic can be captured and analyzed using Wireshark
